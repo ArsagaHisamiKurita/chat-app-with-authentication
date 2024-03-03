@@ -7,7 +7,7 @@ const Index = () => {
         <h1 className="font-roboto text-[56px] font-bold">front chat app</h1>
       </div>
       <div className="h-svh">
-        <Image src="/images/fv.jpg" width={1792} height={2304} alt="" className="w-full h-full object-cover" />
+        <img src="/images/fv.jpg" width={1792} height={2304} alt="" className="w-full h-full object-cover" />
       </div>
     </div>
   );
